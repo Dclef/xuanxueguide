@@ -1,9 +1,9 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import { componentsPlugin } from "vuepress-plugin-components";
+
 export default hopeTheme({
-  hostname: "https://dclef.icu",
+  // hostname: "https://dclef.icu",
 
   author: {
     name: "dclef",
