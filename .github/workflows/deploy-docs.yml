@@ -28,7 +28,7 @@ jobs:
 
       - name: 构建文档
         run:  yarn run docs:build
-
+#配置文档
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
         with:
