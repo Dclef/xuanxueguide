@@ -4,7 +4,7 @@ name: 部署文档
 on:
   push:
     branches:
-      - main
+      - master
 
 #permissions:
 #  contents: write
@@ -15,16 +15,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
 
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
+
       - name: 安装依赖
-        run: yarn install --frozen-lockfile
+        run: yarn install
 
       - name: 构建文档
         run:  yarn run docs:build
