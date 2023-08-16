@@ -1,0 +1,39 @@
+
+name: 部署文档
+
+on:
+  push:
+    branches:
+      - main
+
+#permissions:
+#  contents: write
+
+jobs:
+  deploy-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+      - name: 安装依赖
+        run: yarn install --frozen-lockfile
+
+      - name: 构建文档
+        run:  yarn run docs:build
+
+      - name: 部署文档
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
+          branch: gh-pages
+          REPOSITORY_NAME: Dclef/xuanxueguide
+          folder: src/.vuepress/dist
+
