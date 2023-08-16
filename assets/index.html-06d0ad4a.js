@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4c53cb1c","path":"/%E7%8E%84%E5%AD%A6%E5%8E%9F%E6%96%87/","title":"玄学原文","lang":"zh-CN","frontmatter":{"title":"玄学原文","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48182287","path":"/%E7%8E%84%E5%AD%A6%E5%8E%9F%E6%96%87/%E5%85%AB%E5%AD%97/%E5%85%AB%E5%AD%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/","title":"八字基础知识","lang":"zh-CN","frontmatter":{"title":"八字基础知识","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
