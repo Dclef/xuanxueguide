@@ -9,15 +9,15 @@ export default hopeTheme({
     name: "dclef",
     url: "https://dclef.icu",
   },
-
+  fullscreen: true,
   iconAssets: "fontawesome-with-brands",
-
+  
   logo: "/logo.svg",
 
-  repo: "dclef/xauxueguide",
+  repo: "dclef/xuanxueguide",
 
   docsDir: "src",
-
+  
   // navbar
   navbar,
 
@@ -37,13 +37,13 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
- 
+
   
   plugins: {
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
+      repo: "Dclef/xuanxueguide",
       repoId: "R_kgDOKH40cA",
       category: "Announcements",
       categoryId: "DIC_kwDOKH40cM4CYqBc",
@@ -55,7 +55,7 @@ export default hopeTheme({
             path: "/",
             title: "群",
             content:
-              "自行加群",
+              "https://t.me/xuanxueguide",
             actions: [
               {
                 text: "赞助",
