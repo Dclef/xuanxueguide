@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "dclef/xauxueguide",
 
   docsDir: "src",
 
@@ -44,9 +44,9 @@ export default hopeTheme({
     comment: {
       provider: "Giscus",
       repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repoId: "R_kgDOKH40cA",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOKH40cM4CYqBc",
     },
     components:{
       rootComponents: {
