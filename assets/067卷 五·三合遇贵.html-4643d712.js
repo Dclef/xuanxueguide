@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-f05d3ed8.js";const s={},c=_("p",null,"《三命通会》卷 五·三合遇贵",-1),n=_("p",null,"经云：三合若是遇贵禄，平生多财谷。",-1),l=_("p",null,"如",-1),r=[c,n,l];function a(i,d){return t(),o("div",null,r)}const p=e(s,[["render",a],["__file","067卷 五·三合遇贵.html.vue"]]);export{p as default};

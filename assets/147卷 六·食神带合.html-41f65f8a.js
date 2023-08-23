@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-60a1dd49.js";const c={},s=_("p",null,"《三命通会》卷 六·食神带合",-1),n=_("p",null,"谓甲人见丙有辛合，己人见辛有丙合，乙见丁壬，庚见壬丁，丙见戊癸，辛见癸戊之例，主为官有权印。",-1),r=[s,n];function l(a,i){return t(),o("div",null,r)}const m=e(c,[["render",l],["__file","147卷 六·食神带合.html.vue"]]);export{m as default};

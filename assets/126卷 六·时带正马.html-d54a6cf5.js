@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-60a1dd49.js";const c={},s=_("p",null,"《三命通会》卷 六·时带正马",-1),n=_("p",null,"如甲日带巳午时之例，无刑冲破劫，主招美妻，得外来财物，生子荣贵，财产丰厚，此非父母之财，乃身外之财，招来产业，宜俭不宜奢。",-1),r=[s,n];function l(a,i){return t(),o("div",null,r)}const m=e(c,[["render",l],["__file","126卷 六·时带正马.html.vue"]]);export{m as default};

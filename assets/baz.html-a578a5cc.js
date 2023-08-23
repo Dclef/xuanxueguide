@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as c}from"./app-f05d3ed8.js";const _={},s=c("p",null,"尽情期待",-1),a=[s];function n(r,l){return t(),o("div",null,a)}const m=e(_,[["render",n],["__file","baz.html.vue"]]);export{m as default};
