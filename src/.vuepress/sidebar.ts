@@ -22,6 +22,13 @@ export default sidebar({
           prefix: "八字基础知识/",
           link: "八字基础知识/"
         },
+         {
+          text: "三命通会",
+          icon: "laptop-code",
+          prefix: "三命通会/",
+          link: "三命通会/"
+        },
+        
         {
           text: "渊海子平",
           icon: "laptop-code",
@@ -52,5 +59,7 @@ export default sidebar({
     },
   ],
   "/玄学原文/八字/八字基础知识": "structure",
-  "/玄学原文/八字/渊海子平": "structure",
+  "/玄学原文/八字/三命通会": "structure",
+  "/玄学原文/八字/渊海子平": "structure"
+
 });

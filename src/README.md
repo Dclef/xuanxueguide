@@ -31,7 +31,6 @@ highlights:
       - title: 快速搜索
         icon: box-archive
       
-
-copyright: true
-footer: power by <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a>  | GPL 协议, 版权所有 © 2023-present dclef
+copyright: false
+footer: power by <a herf="https://theme-hope.vuejs.press/zh/">VuePress Theme Hope</a> | GPL-3.0 Licensed, Copyright © 2023-present dclef
 ---
