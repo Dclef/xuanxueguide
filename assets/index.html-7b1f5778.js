@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6c0d4326","path":"/%E7%8E%84%E5%AD%A6%E5%8E%9F%E6%96%87/%E5%85%AB%E5%AD%97/","title":"八字","lang":"zh-CN","frontmatter":{"title":"八字","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

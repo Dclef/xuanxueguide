@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-f1e7afee.js";const c={},s=_("p",null,"《三命通会》卷 六·红鸾天印",-1),n=_("p",null,"谓丙食戊而得戊戌，辛食癸而得癸丑，壬甲辰，乙丁未，日时得之，主富贵。",-1),r=[s,n];function l(a,i){return t(),o("div",null,r)}const m=e(c,[["render",l],["__file","148卷 六·红鸾天印.html.vue"]]);export{m as default};
