@@ -7,34 +7,26 @@ export default navbar([
     prefix: "/guide/",
     children: [
       {
-        text: "基础",
+        text: "初阶",
         icon: "lightbulb",
-        prefix: "bar/",
+        prefix: "初阶/",
         children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
       },
       {
         text: "进阶",
         icon: "lightbulb",
-        prefix: "foo/",
+        prefix: "进阶/",
         children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
       },
     ],
   },
-  
+
   {
     text: "玄学原文",
     icon: "lightbulb",
-    prefix: "/玄学原文/",
-    children: [
-      {
-         text: "八字", icon: "ellipsis", link: "八字/" ,
-      },
-      {
-         text: "梅花易数", icon: "ellipsis", link: "梅花易数/" ,
-      }
-    ],
+    link: ""
   },
-  {text:"在线排版",link:"https://dclef.icu/xuanxue"}
+  { text: "在线排版", link: "https://dclef.icu/xuanxue" }
 
-  
+
 ]);

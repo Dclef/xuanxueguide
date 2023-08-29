@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { pwaPlugin } from "vuepress-plugin-pwa2";
 import { copyrightPlugin } from "vuepress-plugin-copyright2";
@@ -11,17 +12,22 @@ export default defineUserConfig({
   theme,
   shouldPrefetch: false,
   plugins: [
+
     copyrightPlugin({
       global: true,
       triggerWords: 150,
       author: "dclef",
       license: "GPL"
     }),
+   
     searchProPlugin({
       indexContent: true,
-      sortStrategy: "total",
       autoSuggestions: false,
+      queryHistoryCount: 1,
+      resultHistoryCount: 1,
+      searchDelay: 500
     }),
+ 
     pwaPlugin({
       manifest: {
         name: "玄学指南",
