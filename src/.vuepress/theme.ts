@@ -10,8 +10,7 @@ export default hopeTheme({
     url: "https://dclef.icu",
   },
   fullscreen: true,
-  iconAssets: "fontawesome-with-brands",
-
+  iconAssets: "fontawesome",
   logo: "/logo.svg",
 
   repo: "dclef/xuanxueguide",
@@ -55,11 +54,11 @@ export default hopeTheme({
             path: "/",
             title: "群",
             content:
-              "https://t.me/xuanxueguide",
+              "随缘",
             actions: [
               {
                 text: "赞助",
-                link: "https://theme-hope.vuejs.press",
+                link: "support.md",
               },
             ],
           },
@@ -83,23 +82,7 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
       presentation: ["highlight", "math", "search", "notes", "zoom"],
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
       sub: true,
       sup: true,
       tabs: true,

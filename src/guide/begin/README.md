@@ -1,9 +1,9 @@
 ---
-title: 指南目录
-icon: book
+title: 初阶目录
+icon: book-open
 index: false
 category:
-  - 指南
+  - 初阶
 dir:
   order: 1
 ---

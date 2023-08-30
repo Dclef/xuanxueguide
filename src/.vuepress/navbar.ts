@@ -3,26 +3,32 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   {
     text: "指南",
-    icon: "lightbulb",
+    icon: "book",
     prefix: "/guide/",
     children: [
       {
         text: "初阶",
-        icon: "lightbulb",
-        prefix: "初阶/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "begin/",
+        children:
+          [
+            "001_orgin"
+          ]
       },
       {
         text: "进阶",
-        icon: "lightbulb",
-        prefix: "进阶/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "high/",
+        children:
+          [
+            "ray"
+          ]
       },
     ],
   },
 
-  { text: "玄学原文", link: "https://dclef.icu/xuanxuedocs"},
-  { text: "在线排版", link: "https://dclef.icu/paiban" }
+  { text: "玄学原文", icon: "yin-yang", link: "https://dclef.icu/xuanxuedocs" },
+  { text: "在线排版", icon: "yin-yang", link: "https://dclef.icu/paiban" },
+  { text: "赞助", icon: "comments-dollar", link: "/support.md" },
+  { text: "TG群", icon: "paper-plane", link: "https://t.me/xuanxueguide" }
 
 
 ]);
