@@ -21,12 +21,8 @@ export default navbar([
     ],
   },
 
-  {
-    text: "玄学原文",
-    icon: "lightbulb",
-    link: ""
-  },
-  { text: "在线排版", link: "https://dclef.icu/xuanxue" }
+  { text: "玄学原文", link: "https://dclef.icu/xuanxuedocs"},
+  { text: "在线排版", link: "https://dclef.icu/paiban" }
 
 
 ]);
