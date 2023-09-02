@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  // hostname: "https://dclef.icu",
+  hostname: "https://xuanxue.dclef.icu",
 
   author: {
     name: "dclef",
@@ -14,9 +14,9 @@ export default hopeTheme({
   logo: "/logo.svg",
 
   repo: "dclef/xuanxueguide",
-
+  docsRepo: "https://github.com/dclef/xuanxueguide",
   docsDir: "src",
-  
+  docsBranch: "master",
   // navbar
   navbar,
 
@@ -26,17 +26,17 @@ export default hopeTheme({
   footer:"GPL Licensed ",
   displayFooter: true,
   
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   // page meta
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
-
+  
   
   plugins: {
     // You should generate and use your own comment service

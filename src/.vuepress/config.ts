@@ -12,16 +12,24 @@ export default defineUserConfig({
   theme,
   shouldPrefetch: false,
   plugins: [
-
     copyrightPlugin({
       global: true,
       triggerWords: 150,
       author: "dclef",
       license: "GPL"
     }),
-   
     searchProPlugin({
       indexContent: true,
+      customFields: [
+        {
+          getter: (page) => page.frontmatter.category as string,
+          formatter: "分类：$content",
+        },
+        {
+          getter: (page)=> page.frontmatter.tag as  string,
+          formatter: "标签：$content",
+        },
+      ],
       autoSuggestions: false,
       queryHistoryCount: 1,
       resultHistoryCount: 1,
