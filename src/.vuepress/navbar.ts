@@ -11,7 +11,9 @@ export default navbar([
         prefix: "begin/",
         children:
           [
-            "001_orgin"
+            "001_ming_orgin",
+            "002_yinyang_orgin",
+            "003_ming_history"
           ]
       },
       {
