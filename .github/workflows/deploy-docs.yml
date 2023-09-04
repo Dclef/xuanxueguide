@@ -33,5 +33,5 @@ jobs:
           ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
           branch: gh-pages
           REPOSITORY_NAME: Dclef/xuanxueguide
-          folder: src/.vuepress/dist
+          folder: docs/.vuepress/dist
 
