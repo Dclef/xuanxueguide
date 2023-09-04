@@ -8,6 +8,7 @@ tag:
 - 阴阳
 - 五行
 - 五运六气
+- 干支
 ---
 
 ## 1.阴阳起源
@@ -289,4 +290,4 @@ flowchart  TB
 
 作为干支符号的完备和使用，始于东汉元和二年的四分历，这里就不用表格构建了。命理学的研究必然是东汉之后
 
-![002_yinyang_sifenli.webp](C:\Users\su\Desktop\002_yinyang_sifenli.webp)
+![四分历](https://cdn.jsdelivr.net/gh/dclef/CDN/xuanxue/002_yinyang_sifenli.png)
