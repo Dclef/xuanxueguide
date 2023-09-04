@@ -10,6 +10,7 @@ export default hopeTheme({
   },
   fullscreen: true,
   iconAssets: "fontawesome",
+  iconPrefix: "fa-solid fa-",
   logo: "/logo.svg",
 
   repo: "dclef/xuanxueguide",
