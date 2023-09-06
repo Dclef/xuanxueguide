@@ -22,7 +22,8 @@ export default navbar([
         prefix: "high/",
         children:
           [
-            "ray"
+            "ray",
+            "paiban"
           ]
       },
     ],

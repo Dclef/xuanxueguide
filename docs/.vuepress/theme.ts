@@ -10,7 +10,7 @@ export default hopeTheme({
   },
   fullscreen: true,
   iconAssets: "fontawesome",
-  iconPrefix: "fa-solid fa-",
+  // iconPrefix: "fa-solid fa-",
   logo: "/logo.svg",
 
   repo: "dclef/xuanxueguide",
@@ -21,7 +21,7 @@ export default hopeTheme({
   navbar,
   // sidebar
   sidebar,
-  footer: "GPL Licensed ",
+  // footer: "GPL Licensed ",
   displayFooter: true,
 
   // encrypt: {

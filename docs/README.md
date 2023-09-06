@@ -25,6 +25,5 @@ features:
   - title: 快速搜索
     icon: box-archive
       
-copyright: true
-footer: GPL-3.0 Licensed | Copyright © 2023-present dclef
+footer: power by vuepress-hope | GPL-3.0 Licensed | 2023 dclef
 ---
