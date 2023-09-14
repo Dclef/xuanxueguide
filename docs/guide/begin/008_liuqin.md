@@ -1,7 +1,7 @@
 ---
 title: 六亲和财官
 icon: circle-info
-order: 7
+order: 8
 category:
 - 起源
 - 宋

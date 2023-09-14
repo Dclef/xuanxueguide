@@ -15,7 +15,11 @@ export default navbar([
             "002_yinyang_orgin",
             "003_ming_history",
             "004_shensha_orgin",
-            "005_nayin_orgin"
+            "005_nayin_orgin",
+            "006_ziping_orgin",
+            "007_xingqing_jibing",
+            "008_liuqin",
+            "009_geju_orgin",
           ]
       },
       {
