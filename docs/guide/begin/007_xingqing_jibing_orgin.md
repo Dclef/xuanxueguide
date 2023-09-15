@@ -1,5 +1,5 @@
 ---
-title: 论性情和疾病
+title: 性情和疾病起源
 icon: circle-info
 order: 7
 category:
@@ -7,6 +7,7 @@ category:
 - 宋
 tag:
 - 三命通会
+- 渊海子平
 ---
 
 ## 1.十神

@@ -3,7 +3,7 @@ title: 命理发展历史
 icon: circle-info
 order: 3
 category:
-- 起源
+- 发展
 
 tag:
 - 术数

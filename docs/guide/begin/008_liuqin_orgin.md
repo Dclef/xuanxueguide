@@ -1,5 +1,5 @@
 ---
-title: 六亲和财官
+title: 六亲和财官起源
 icon: circle-info
 order: 8
 category:

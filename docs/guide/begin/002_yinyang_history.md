@@ -3,7 +3,7 @@ title: 阴阳五行学说
 icon: circle-info
 order: 2
 category:
-- 起源
+- 发展
 tag:
 - 阴阳
 - 五行
