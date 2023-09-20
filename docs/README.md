@@ -10,7 +10,7 @@ heroText: 玄学指南
 tagline: 一个东方玄学的指南
 actions:
   - text: 使用指南 💡
-    link: ./guide/begin/001_ming_orgin
+    link: ./guide/begin/001_ming_history
     type: primary
   - text: 玄学原文
     link: "https://dclef.icu/xuanxuedocs/"

@@ -11,8 +11,8 @@ export default navbar([
         prefix: "begin/",
         children:
           [
-            "001_ming_orgin",
-            "002_yinyang_orgin",
+            "001_ming_history",
+            "002_yinyang_history",
             "003_ming_history",
             "004_shensha_orgin",
             "005_nayin_orgin",
@@ -20,6 +20,9 @@ export default navbar([
             "007_xingqing_jibing",
             "008_liuqin",
             "009_geju_orgin",
+            "010_songming_zongjie",
+            "011_mingqing_zongjie",
+            "012_moden_zongjie",
           ]
       },
       {
