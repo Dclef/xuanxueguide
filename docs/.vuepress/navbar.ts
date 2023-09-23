@@ -31,7 +31,9 @@ export default navbar([
         children:
           [
             "ray",
-            "paiban"
+            "paiban",
+            "shishen",
+            "geju"
           ]
       },
     ],
