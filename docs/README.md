@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 玄学指南
-heroImage: /logo.svg
+heroImage: /Bagua.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed

@@ -1,6 +1,6 @@
 ---
 title: 子平五行
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 6
 category:
 - 起源

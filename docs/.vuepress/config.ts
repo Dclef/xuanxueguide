@@ -41,12 +41,12 @@ export default defineUserConfig({
         description: "入门级指南",
         icons: [
           {
-            src: "/assets/icon/chrome-192.png",
+            src: "/Bagua.png",
             sizes: "192x192",
             type: "image/png",
           },
           {
-            src: "/assets/icon/chrome-512.png",
+            src: "/Bagua.png",
             sizes: "512x512",
             type: "image/png",
           },

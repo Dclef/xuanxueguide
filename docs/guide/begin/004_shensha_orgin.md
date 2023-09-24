@@ -1,6 +1,6 @@
 ---
 title: 神煞、四时和刑冲会和
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 4
 category:
 - 起源

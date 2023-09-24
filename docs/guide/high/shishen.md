@@ -1,6 +1,6 @@
 ---
 title: 如何排十神
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 2
 
 ---

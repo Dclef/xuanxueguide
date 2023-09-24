@@ -9,7 +9,7 @@ export default hopeTheme({
     url: "https://dclef.icu",
   },
   fullscreen: true,
-  iconAssets: "fontawesome",
+  // iconAssets: "fontawesome",
   // iconPrefix: "fa-solid fa-",
   logo: "/logo.svg",
 
@@ -80,9 +80,9 @@ export default hopeTheme({
         notice: {
           locales: {
             "/": {
-              title: "群",
+              title: "加入交流群",
               content:
-                "随缘",
+                "上方可加电报群，其余暂时不用",
               actions: [
                 {
                   text: "赞助",

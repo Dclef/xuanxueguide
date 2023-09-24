@@ -1,6 +1,6 @@
 ---
 title: 如何断格局
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 3
 
 ---

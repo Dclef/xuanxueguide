@@ -1,6 +1,6 @@
 ---
 title: 阴阳五行学说
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 2
 category:
 - 发展

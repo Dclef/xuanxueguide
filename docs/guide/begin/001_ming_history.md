@@ -1,6 +1,6 @@
 ---
 title: 命理介绍
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 1
 category:
   - 起源

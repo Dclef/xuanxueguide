@@ -1,6 +1,6 @@
 ---
 title: 宋明八字总结
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 10
 category:
 - 总结

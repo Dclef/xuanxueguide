@@ -1,6 +1,6 @@
 ---
 title: 进阶目录
-icon: book-open-reader
+icon: /assets/image/book-open-reader.svg
 index: false
 category:
   - 进阶

@@ -1,6 +1,6 @@
 ---
 title: 性情和疾病起源
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 7
 category:
 - 起源

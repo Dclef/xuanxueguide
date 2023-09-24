@@ -1,6 +1,6 @@
 ---
 title: 格局起源
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 9
 category:
 - 起源

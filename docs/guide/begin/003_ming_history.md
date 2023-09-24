@@ -1,6 +1,6 @@
 ---
 title: 命理发展历史
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 3
 category:
 - 发展

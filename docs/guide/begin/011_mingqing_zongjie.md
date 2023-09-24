@@ -1,7 +1,7 @@
 ---
 
 title: 明清八字总结
-icon: circle-info
+icon: /assets/image/circle-info.svg
 order: 11
 category:
 - 总结

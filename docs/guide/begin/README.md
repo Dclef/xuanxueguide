@@ -1,9 +1,10 @@
 ---
 title: 初阶目录
-icon: book-open
+icon: /assets/image/book-open.svg
 index: false
 category:
   - 初阶
+  - 总结
 dir:
   order: 1
 ---

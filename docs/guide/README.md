@@ -1,6 +1,6 @@
 ---
 title: 指南目录
-icon: book
+icon: /assets/image/book.svg
 index: false
 category:
   - 指南
