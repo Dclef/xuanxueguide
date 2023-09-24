@@ -11,7 +11,7 @@ export default hopeTheme({
   fullscreen: true,
   // iconAssets: "fontawesome",
   // iconPrefix: "fa-solid fa-",
-  logo: "/logo.svg",
+  logo: "/Bagua.svg",
 
   repo: "dclef/xuanxueguide",
   docsRepo: "https://github.com/dclef/xuanxueguide",
