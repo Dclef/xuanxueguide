@@ -1,19 +1,20 @@
 {
-    "name": "xuanxueguide",
-    "version": "1.0.0",
-    "description": "A project of vuepress-theme-hope",
-    "license": "LGPL-3.0-or-later",
-    "type": "module",
-    "scripts": {
-      "docs:build": "vuepress build docs",
-      "cdev": "vuepress dev docs --clean-cache",
-      "dev": "vuepress dev docs"
-    },
-    "devDependencies": {
-      "@vuepress/client": "2.0.0-beta.60",
-      "vue": "^3.2.45",
-      "vuepress": "2.0.0-beta.60",
-      "vuepress-plugin-search-pro": "2.0.0-beta.152",
-      "vuepress-theme-hope": "2.0.0-beta.152"
-    }
+  "name": "xuanxueguide",
+  "version": "1.0.0",
+  "description": "A project of vuepress-theme-hope",
+  "license": "LGPL-3.0-or-later",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "cdev": "vuepress dev docs --clean-cache",
+    "dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.60",
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.67",
+    "vue": "^3.2.45",
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-plugin-search-pro": "2.0.0-beta.152",
+    "vuepress-theme-hope": "2.0.0-beta.152"
   }
+}

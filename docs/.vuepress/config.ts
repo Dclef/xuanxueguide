@@ -3,7 +3,19 @@ import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { pwaPlugin } from "vuepress-plugin-pwa2";
 import { copyrightPlugin } from "vuepress-plugin-copyright2";
+
 export default defineUserConfig({
+  head:[
+    ['script', {async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-MTZ658KRPR'}],
+    [
+      'script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MTZ658KRPR');
+      `
+    ],
+  ],
   base: "/",
   lang: "zh-CN",
   title: "玄学指南",
@@ -11,7 +23,7 @@ export default defineUserConfig({
   theme,
   shouldPrefetch: false,
   plugins: [
-    
+  
     copyrightPlugin({
       global: true,
       triggerWords: 150,
@@ -21,7 +33,7 @@ export default defineUserConfig({
     searchProPlugin({
       indexContent: true
     }),
- 
+   
     pwaPlugin({
       manifest: {
         name: "玄学指南",
