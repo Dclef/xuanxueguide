@@ -1,6 +1,7 @@
 ---
 title: 神煞、四时和刑冲会和
 icon: /assets/image/circle-info.svg
+date: 2023-9-6
 order: 4
 category:
 - 起源

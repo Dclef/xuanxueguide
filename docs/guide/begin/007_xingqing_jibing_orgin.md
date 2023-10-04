@@ -1,6 +1,7 @@
 ---
 title: 性情和疾病起源
 icon: /assets/image/circle-info.svg
+date: 2023-9-11
 order: 7
 category:
 - 起源

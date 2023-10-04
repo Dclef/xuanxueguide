@@ -2,6 +2,7 @@
 title: 命理介绍
 icon: /assets/image/circle-info.svg
 order: 1
+date: 2023-9-1
 category:
   - 起源
 tag:

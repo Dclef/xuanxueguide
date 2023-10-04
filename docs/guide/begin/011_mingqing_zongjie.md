@@ -2,6 +2,7 @@
 
 title: 明清八字总结
 icon: /assets/image/circle-info.svg
+date: 2023-9-17
 order: 11
 category:
 - 总结

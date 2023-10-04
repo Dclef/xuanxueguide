@@ -1,5 +1,5 @@
 ---
-title: 如何断格局
+title: 断格局
 icon: /assets/image/circle-info.svg
 order: 3
 

@@ -1,6 +1,7 @@
 ---
 title: 阴阳五行学说
 icon: /assets/image/circle-info.svg
+date: 2023-9-4
 order: 2
 category:
 - 发展

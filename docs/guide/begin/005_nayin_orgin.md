@@ -1,6 +1,7 @@
 ---
 title: 纳音五行
 icon: /assets/image/circle-info.svg
+date: 2023-9-9
 order: 5
 category:
 - 起源

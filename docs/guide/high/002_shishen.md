@@ -1,6 +1,7 @@
 ---
-title: 如何排十神
+title: 排十神
 icon: /assets/image/circle-info.svg
+date: 2023-9-24
 order: 2
 
 ---

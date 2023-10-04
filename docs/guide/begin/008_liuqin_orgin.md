@@ -1,6 +1,7 @@
 ---
 title: 六亲和财官起源
 icon: /assets/image/circle-info.svg
+date: 2023-9-12
 order: 8
 category:
 - 起源

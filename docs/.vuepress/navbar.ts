@@ -30,10 +30,13 @@ export default navbar([
         prefix: "high/",
         children:
           [
+            "001_paiban",
+            "002_shishen",
+            "003_qiangruo",
+            "004_yongshen",
+            "005_dayun",
+            "006_geju",
             "ray",
-            "paiban",
-            "shishen",
-            "geju"
           ]
       },
     ],
