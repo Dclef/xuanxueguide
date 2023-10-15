@@ -1,5 +1,5 @@
 ---
-title: 断强弱
+title: 看强弱
 icon: /assets/image/circle-info.svg
 date: 2023-9-25
 order: 3

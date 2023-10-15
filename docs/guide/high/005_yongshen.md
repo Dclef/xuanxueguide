@@ -1,8 +1,8 @@
 ---
-title: 断用神
+title: 取用神
 icon: /assets/image/circle-info.svg
 date: 2023-9-26
-order: 4
+order: 5
 
 ---
 
