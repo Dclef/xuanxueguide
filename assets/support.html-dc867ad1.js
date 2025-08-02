@@ -1,0 +1,1 @@
+import{_ as t,V as n,W as s,X as e}from"./framework-a2a9bb97.js";const o={},c=e("p",null,"随缘即可",-1),r=e("figure",null,[e("img",{src:"https://cdn.jsdelivr.net/gh/dclef/CDN/renpy/support.png",alt:"",tabindex:"0",loading:"lazy"}),e("figcaption")],-1),l=[c,r];function _(a,i){return n(),s("div",null,l)}const d=t(o,[["render",_],["__file","support.html.vue"]]);export{d as default};
