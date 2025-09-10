@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://xuanxue.dclef.icu/sitemap.xml
+Sitemap: https://xuanxue.dclef.com/sitemap.xml
