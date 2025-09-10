@@ -49,8 +49,8 @@ export default navbar([
     ],
   },
 
-  { text: "玄学原文", icon: "/assets/image/yinyang.svg", link: "https://dclef.icu/xuanxuedocs" },
-  { text: "在线排版", icon: "/assets/image/yinyang.svg", link: "https://dclef.icu/paiban" },
+  { text: "玄学原文", icon: "/assets/image/yinyang.svg", link: "https://dclef.com/xuanxuedocs" },
+  { text: "在线排版", icon: "/assets/image/yinyang.svg", link: "https://dclef.com/paiban" },
   { text: "赞助", icon: "/assets/image/comments-dollar.svg", link: "/support.md" },
   { text: "TG群", icon: "/assets/image/telegram.svg", link: "https://t.me/xuanxuedocs" }
 
