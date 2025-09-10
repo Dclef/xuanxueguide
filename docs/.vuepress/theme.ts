@@ -2,11 +2,11 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 export default hopeTheme({
-  hostname: "https://xuanxue.dclef.icu",
+  hostname: "https://xuanxue.dclef.com",
 
   author: {
     name: "dclef",
-    url: "https://dclef.icu",
+    url: "https://dclef.com",
   },
   fullscreen: true,
   // iconAssets: "fontawesome",
